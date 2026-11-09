@@ -22,6 +22,10 @@ A dated finding aid for 43 turning points in nine public timelines. Use it to lo
 
 Open [timeline-sources.json](timeline-sources.json). Each timeline lists its canonical page and public data endpoint. Each event includes the published date, a short label, the event permalink and its source URLs. Dates retain the precision of the published record. A year or month does not imply an exact day.
 
+The [versioned download](https://github.com/howitunfolded/timeline-source-index/releases) includes the same index in two UTF-8 CSV tables. [milestones.csv](milestones.csv) has one row per milestone. [source-links.csv](source-links.csv) has one row per event and source reference, in citation order. Join the tables on `event_url`. The 63 reference rows include 52 distinct source URLs, since the same document can support more than one event.
+
+Import the `date` column as text to preserve the original year, month or day. The `date_precision` column gives the precision explicitly. [SHA256SUMS.txt](SHA256SUMS.txt) lets readers check the downloaded data files.
+
 This release captures the public site on 9 November 2026 at commit `e4035d69920f0fde7487f289df268a1a4cd279ce`. It contains turning points with identifiable source links. For the complete chronology and current status, consult the canonical timeline. A sequence of events does not establish causation.
 
 ## Source briefs
