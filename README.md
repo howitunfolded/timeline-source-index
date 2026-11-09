@@ -24,6 +24,10 @@ Open [timeline-sources.json](timeline-sources.json). Each timeline lists its can
 
 This release captures the public site on 9 November 2026 at commit `e4035d69920f0fde7487f289df268a1a4cd279ce`. It contains turning points with identifiable source links. For the complete chronology and current status, consult the canonical timeline. A sequence of events does not establish causation.
 
+## Source briefs
+
+[Alaska Airlines Flight 1282 (PDF)](briefs/HowItUnfoldedFlight1282SourceBrief.pdf) is a one-page guide to the in-flight incident, the FAA grounding order and the NTSB probable-cause finding. The brief links directly to all three public records.
+
 ## Sources and reuse
 
 This index contains references and short event labels. The linked documents, photographs, audio and articles remain subject to the rights and terms stated by their publishers. This repository does not grant a licence to those works.
