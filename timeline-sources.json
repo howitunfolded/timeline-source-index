@@ -1,0 +1,456 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-11-09",
+  "publisher": "How It Unfolded",
+  "publisher_url": "https://howitunfolded.com/",
+  "methodology_url": "https://howitunfolded.com/methodology/",
+  "source_site_commit": "e4035d69920f0fde7487f289df268a1a4cd279ce",
+  "selection": "Cited turning points in nine launch timelines",
+  "timelines": [
+    {
+      "id": "early-record-player-history",
+      "title": "Early record players",
+      "topic": "Technology history",
+      "timeline_url": "https://howitunfolded.com/companies/early-record-player-history/",
+      "data_url": "https://howitunfolded.com/data/early-record-player-history.json",
+      "events": [
+        {
+          "date": "1877-12-24",
+          "label": "Edison files his phonograph patent application",
+          "event_url": "https://howitunfolded.com/companies/early-record-player-history/e/7b541d55/",
+          "source_urls": [
+            "https://patents.google.com/patent/US200521A/en"
+          ]
+        },
+        {
+          "date": "1878-02-19",
+          "label": "The phonograph patent is granted",
+          "event_url": "https://howitunfolded.com/companies/early-record-player-history/e/bd4a4f5b/",
+          "source_urls": [
+            "https://patents.google.com/patent/US200521A/en"
+          ]
+        },
+        {
+          "date": "1887-11-08",
+          "label": "Berliner receives a patent for the gramophone",
+          "event_url": "https://howitunfolded.com/companies/early-record-player-history/e/cf57b8a4/",
+          "source_urls": [
+            "https://patents.google.com/patent/US372786A/en"
+          ]
+        },
+        {
+          "date": "1888-05-15",
+          "label": "A second Berliner patent covers making sound records",
+          "event_url": "https://howitunfolded.com/companies/early-record-player-history/e/c5a2d567/",
+          "source_urls": [
+            "https://patents.google.com/patent/US382790A/en"
+          ]
+        },
+        {
+          "date": "1888-05-16",
+          "label": "Berliner presents the gramophone at the Franklin Institute",
+          "event_url": "https://howitunfolded.com/companies/early-record-player-history/e/15d4d7f9/",
+          "source_urls": [
+            "https://www.eamonnbell.com/pdfs/berliner1888.pdf",
+            "https://webarchive.library.unt.edu/eot2008/20090508010657/http:/memory.loc.gov/ammem/berlhtml/berlgramo.html"
+          ]
+        },
+        {
+          "date": "1913-10",
+          "label": "Edison’s company magazine features its disc phonograph",
+          "event_url": "https://howitunfolded.com/companies/early-record-player-history/e/d0e1dfc9/",
+          "source_urls": [
+            "https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1913-Vol-11.pdf",
+            "https://lantern.mediahist.org/catalog/edisonphonograph11moor_0140"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beethoven-film-series-history",
+      "title": "Beethoven film series",
+      "topic": "Film",
+      "timeline_url": "https://howitunfolded.com/companies/beethoven-film-series-history/",
+      "data_url": "https://howitunfolded.com/data/beethoven-film-series-history.json",
+      "events": [
+        {
+          "date": "1992-04-03",
+          "label": "Beethoven introduces George and Alice Newton",
+          "event_url": "https://howitunfolded.com/companies/beethoven-film-series-history/e/fd3653b5/",
+          "source_urls": [
+            "https://catalog.afi.com/Film/59190-BEETHOVEN",
+            "https://www.universalpicturesathome.com/movies/beethoven"
+          ]
+        },
+        {
+          "date": "2000",
+          "label": "Beethoven’s 3rd moves to another Newton household",
+          "event_url": "https://howitunfolded.com/companies/beethoven-film-series-history/e/5e0b0cdb/",
+          "source_urls": [
+            "https://www.universalpicturesathome.com/movies/beethovens-3rd"
+          ]
+        },
+        {
+          "date": "2008",
+          "label": "Beethoven’s Big Break turns to filmmaking",
+          "event_url": "https://howitunfolded.com/companies/beethoven-film-series-history/e/ea3a8799/",
+          "source_urls": [
+            "https://www.universalpicturesathome.com/movies/beethovens-big-break"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elementary-series-history",
+      "title": "Elementary’s series history",
+      "topic": "Television",
+      "timeline_url": "https://howitunfolded.com/companies/elementary-series-history/",
+      "data_url": "https://howitunfolded.com/data/elementary-series-history.json",
+      "events": [
+        {
+          "date": "2012-05-16",
+          "label": "CBS introduces its New York take on Holmes and Watson",
+          "event_url": "https://howitunfolded.com/companies/elementary-series-history/e/9dcf48d2/",
+          "source_urls": [
+            "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=31794"
+          ]
+        },
+        {
+          "date": "2012-09-27",
+          "label": "The pilot begins the CBS run",
+          "event_url": "https://howitunfolded.com/companies/elementary-series-history/e/a9847508/",
+          "source_urls": [
+            "https://www.paleycenter.org/collection/item?item=108274&p=128&q=cbs"
+          ]
+        },
+        {
+          "date": "2013-02-03",
+          "label": "The drama follows Super Bowl XLVII",
+          "event_url": "https://howitunfolded.com/companies/elementary-series-history/e/cd8a9c1e/",
+          "source_urls": [
+            "https://www.broadwayworld.com/bwwtv/article/ELEMENTARY-Draws-208M-Viewers-in-Post-Super-Bowl-Time-Slot-20130204",
+            "https://tvline.com/2013/02/04/ratings-super-bowl-xlvii/"
+          ]
+        },
+        {
+          "date": "2019-03-26",
+          "label": "The seventh season is designated the last",
+          "event_url": "https://howitunfolded.com/companies/elementary-series-history/e/69470429/",
+          "source_urls": [
+            "https://www.paramountpressexpress.com/cbs-entertainment/releases/view?id=52333"
+          ]
+        },
+        {
+          "date": "2019-08-15",
+          "label": "Their Last Bow completes the series",
+          "event_url": "https://howitunfolded.com/companies/elementary-series-history/e/fa23b08b/",
+          "source_urls": [
+            "https://www.spoilertv.com/2019/07/elementary-episode-713-their-last-bow.html?m=1",
+            "https://tv.apple.com/us/episode/their-last-bow/umc.cmc.2qc5amgikwqagsavfhcfbssnf",
+            "https://paramountglobalcontent.com/title/elementary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eagles-albums-recording-history",
+      "title": "Eagles albums",
+      "topic": "Music history",
+      "timeline_url": "https://howitunfolded.com/companies/eagles-albums-recording-history/",
+      "data_url": "https://howitunfolded.com/data/eagles-albums-recording-history.json",
+      "events": [
+        {
+          "date": "1972-06-01",
+          "label": "The debut album introduces Eagles",
+          "event_url": "https://howitunfolded.com/companies/eagles-albums-recording-history/e/f2716276/",
+          "source_urls": [
+            "https://music.apple.com/us/album/eagles/635791801",
+            "https://www.rhino.com/aod/desperado-eagles-0"
+          ]
+        },
+        {
+          "date": "1974",
+          "label": "On the Border changes the recording team",
+          "event_url": "https://howitunfolded.com/companies/eagles-albums-recording-history/e/ca17f716/",
+          "source_urls": [
+            "https://www.rhino.com/aod/on-the-border-remastered-eagles"
+          ]
+        },
+        {
+          "date": "1976-12-08",
+          "label": "Hotel California is released",
+          "event_url": "https://howitunfolded.com/companies/eagles-albums-recording-history/e/e2ec0ba0/",
+          "source_urls": [
+            "https://music.apple.com/us/album/hotel-california/635770200",
+            "https://eagles.com/blogs/news/eagles-their-greatest-hits-1971-1975"
+          ]
+        },
+        {
+          "date": "1994",
+          "label": "Hell Freezes Over combines reunion recordings and new songs",
+          "event_url": "https://howitunfolded.com/companies/eagles-albums-recording-history/e/dbd215a4/",
+          "source_urls": [
+            "https://www.universalmusic.ca/2019/01/29/hell-freezes-over-again-25-years-later-with-special-double-180g-vinyl-release-of-the-eagles-historic-reunion-album-out-march-8/",
+            "https://eagles.com/pages/releases"
+          ]
+        },
+        {
+          "date": "2007",
+          "label": "Long Road Out of Eden returns to a full studio album",
+          "event_url": "https://howitunfolded.com/companies/eagles-albums-recording-history/e/da629152/",
+          "source_urls": [
+            "https://www.rhino.com/aod/long-road-out-of-eden-the-eagles",
+            "https://www.rhino.com/article/once-upon-a-time-in-the-top-spot-eagles-the-long-run",
+            "https://eagles.com/pages/releases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elin-hilderbrand-publishing-career",
+      "title": "Elin Hilderbrand’s publishing career",
+      "topic": "Books and television",
+      "timeline_url": "https://howitunfolded.com/companies/elin-hilderbrand-publishing-career/",
+      "data_url": "https://howitunfolded.com/data/elin-hilderbrand-publishing-career.json",
+      "events": [
+        {
+          "date": "2014-10-14",
+          "label": "Winter Street starts a seasonal sequence",
+          "event_url": "https://howitunfolded.com/companies/elin-hilderbrand-publishing-career/e/5ec07961/",
+          "source_urls": [
+            "https://www.hachettebookgroup.com/titles/elin-hilderbrand/winter-street/9780316376112/"
+          ]
+        },
+        {
+          "date": "2024-09-05",
+          "label": "Netflix releases The Perfect Couple",
+          "event_url": "https://howitunfolded.com/companies/elin-hilderbrand-publishing-career/e/11db6321/",
+          "source_urls": [
+            "https://media.netflix.com/en/only-on-netflix/81474158",
+            "https://www.netflix.com/tudum/articles/the-perfect-couple-sneak-peek"
+          ]
+        },
+        {
+          "date": "2025-09-16",
+          "label": "The Academy is published with Shelby Cunningham",
+          "event_url": "https://howitunfolded.com/companies/elin-hilderbrand-publishing-career/e/878aa480/",
+          "source_urls": [
+            "https://www.hachettebookgroup.com/titles/elin-hilderbrand/the-academy/9780316567855/"
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "label": "The Thoroughbreds follows The Academy",
+          "event_url": "https://howitunfolded.com/companies/elin-hilderbrand-publishing-career/e/2786d76c/",
+          "source_urls": [
+            "https://www.hachettebookgroup.com/titles/elin-hilderbrand/the-thoroughbreds/9780316567947/",
+            "https://www.hachettebookgroup.com/titles/elin-hilderbrand/the-academy/9780316567855/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "safaricom",
+      "title": "Safaricom",
+      "topic": "Company history",
+      "timeline_url": "https://howitunfolded.com/companies/safaricom/",
+      "data_url": "https://howitunfolded.com/data/safaricom.json",
+      "events": [
+        {
+          "date": "1999",
+          "label": "Safaricom licensed",
+          "event_url": "https://howitunfolded.com/companies/safaricom/e/91b9d46c/",
+          "source_urls": [
+            "https://www.safaricom.co.ke/annualreport_2022/wp-content/uploads/2022/07/Safaricom_online_PDFs_Our-Safaricom-Journey.pdf"
+          ]
+        },
+        {
+          "date": "2007-03",
+          "label": "M-PESA launched",
+          "event_url": "https://howitunfolded.com/companies/safaricom/e/1de93c68/",
+          "source_urls": [
+            "https://www.safaricom.co.ke/annualreport_2022/wp-content/uploads/2022/07/Safaricom_online_PDFs_Our-Safaricom-Journey.pdf"
+          ]
+        },
+        {
+          "date": "2008-06-09",
+          "label": "Shares begin trading after government sells 25 percent",
+          "event_url": "https://howitunfolded.com/companies/safaricom/e/2acb1067/",
+          "source_urls": [
+            "https://telecoms.com/enterprise-telecoms/safaricom-ipo-kicks-off",
+            "https://www.safaricom.co.ke/annualreport_2022/wp-content/uploads/2022/07/Safaricom_online_PDFs_Our-Safaricom-Journey.pdf"
+          ]
+        },
+        {
+          "date": "2021-05-22",
+          "label": "Safaricom-led consortium wins Ethiopia licence",
+          "event_url": "https://howitunfolded.com/companies/safaricom/e/0faae6ae/",
+          "source_urls": [
+            "https://www.kenyaembassyaddis.org/2021/05/safaricom-consortium-wins-ethiopia-licence-bid-of-850-million/"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "label": "Vodacom deal takes effect",
+          "event_url": "https://howitunfolded.com/companies/safaricom/e/06a6bc48/",
+          "source_urls": [
+            "https://vodacom.com/pdf/sens/2026/marble-closing-announcement-final-30-june-2026.pdf",
+            "https://vodacom.com/pdf/sens/2026/update-on-the-acquisition-of-a-controlling-interest-in-safaricomplc.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spacex",
+      "title": "SpaceX",
+      "topic": "Spaceflight",
+      "timeline_url": "https://howitunfolded.com/companies/spacex/",
+      "data_url": "https://howitunfolded.com/data/spacex.json",
+      "events": [
+        {
+          "date": "2006-08",
+          "label": "NASA backs cargo demonstration work",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/f5121049/",
+          "source_urls": [
+            "https://www.nasa.gov/wp-content/uploads/2018/07/spacex_nasa_crs-4_presskit.pdf"
+          ]
+        },
+        {
+          "date": "2008-09",
+          "label": "Falcon 1 reaches orbit",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/47b5681e/",
+          "source_urls": [
+            "https://www.nasa.gov/wp-content/uploads/2018/07/spacex_nasa_crs-4_presskit.pdf"
+          ]
+        },
+        {
+          "date": "2010-12",
+          "label": "Dragon returns from orbit",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/ab66b109/",
+          "source_urls": [
+            "https://www.nasa.gov/wp-content/uploads/2018/07/spacex_nasa_crs-4_presskit.pdf"
+          ]
+        },
+        {
+          "date": "2012-05",
+          "label": "Dragon visits the space station",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/8ff13c78/",
+          "source_urls": [
+            "https://www.nasa.gov/wp-content/uploads/2018/07/spacex_nasa_crs-4_presskit.pdf"
+          ]
+        },
+        {
+          "date": "2015-12-21",
+          "label": "SpaceX lands an orbital-class booster",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/28172aa5/",
+          "source_urls": [
+            "https://www.faa.gov/sites/faa.gov/files/space/environmental/nepa_docs/Final_EA_and_FONSI_for_SpaceX_In-flight_Dragon_Abort_508_A.pdf"
+          ]
+        },
+        {
+          "date": "2017",
+          "label": "SpaceX flies a recovered booster again",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/7d0d3799/",
+          "source_urls": [
+            "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+          ]
+        },
+        {
+          "date": "2020-05-30",
+          "label": "Crew Dragon launches NASA astronauts",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/492b9d00/",
+          "source_urls": [
+            "https://www.nasa.gov/news-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon/"
+          ]
+        },
+        {
+          "date": "2024",
+          "label": "SpaceX catches a returning booster at the launch site",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/f40afa7e/",
+          "source_urls": [
+            "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+          ]
+        },
+        {
+          "date": "2026-02-02",
+          "label": "SpaceX acquires xAI",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/a6ee9999/",
+          "source_urls": [
+            "https://x.ai/news/xai-joins-spacex"
+          ]
+        },
+        {
+          "date": "2026-06-15",
+          "label": "SpaceX closes its initial public offering",
+          "event_url": "https://howitunfolded.com/companies/spacex/e/384741c4/",
+          "source_urls": [
+            "https://www.sec.gov/Archives/edgar/data/1181412/000162828026043288/spaceexplorationtechnologi.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apple-ireland-state-aid",
+      "title": "Apple Ireland tax case",
+      "topic": "Court record",
+      "timeline_url": "https://howitunfolded.com/court-cases/apple-ireland-state-aid/",
+      "data_url": "https://howitunfolded.com/data/apple-ireland-state-aid.json",
+      "events": [
+        {
+          "date": "1991-01-29",
+          "label": "First Irish tax ruling in favour of Apple entities",
+          "event_url": "https://howitunfolded.com/court-cases/apple-ireland-state-aid/e/2acba116/",
+          "source_urls": [
+            "https://www.legislation.gov.uk/eudn/2017/1283/article/1/adopted/data.htm"
+          ]
+        },
+        {
+          "date": "2024-09-10",
+          "label": "Court of Justice sets aside the General Court judgment and confirms the decision",
+          "event_url": "https://howitunfolded.com/court-cases/apple-ireland-state-aid/e/c5bbb862/",
+          "source_urls": [
+            "https://app.livv.eu/decisions/LawLex202400006328JBJ",
+            "https://curia.europa.eu/site/upload/docs/application/pdf/2024-09/cp240133en.pdf",
+            "https://www.bostonglobe.com/2024/09/10/business/eus-top-court-dismisses-apples-final-appeal-against-order-pay-ireland-13-billion-back-taxes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alaska-airlines-1282-door-plug",
+      "title": "Alaska 1282 door plug",
+      "topic": "Aviation investigation",
+      "timeline_url": "https://howitunfolded.com/incidents/alaska-airlines-1282-door-plug/",
+      "data_url": "https://howitunfolded.com/data/alaska-airlines-1282-door-plug.json",
+      "events": [
+        {
+          "date": "2024-01-05",
+          "label": "Left mid exit door plug separates",
+          "event_url": "https://howitunfolded.com/incidents/alaska-airlines-1282-door-plug/e/8edc055e/",
+          "source_urls": [
+            "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf",
+            "https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx"
+          ]
+        },
+        {
+          "date": "2024-01-06",
+          "label": "FAA grounds certain 737-9 MAX airplanes",
+          "event_url": "https://howitunfolded.com/incidents/alaska-airlines-1282-door-plug/e/457a0fc9/",
+          "source_urls": [
+            "https://www.faa.gov/newsroom/updates-grounding-boeing-737-9-max-aircraft"
+          ]
+        },
+        {
+          "date": "2025-06-24",
+          "label": "NTSB determines probable cause",
+          "event_url": "https://howitunfolded.com/incidents/alaska-airlines-1282-door-plug/e/8908a44b/",
+          "source_urls": [
+            "https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx",
+            "https://www.ntsb.gov/news/press-releases/Pages/NR20250624.aspx",
+            "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf"
+          ]
+        }
+      ]
+    }
+  ]
+}
