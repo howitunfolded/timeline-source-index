@@ -32,6 +32,10 @@ This release captures the public site on 9 November 2026 at commit `e4035d69920f
 
 [Alaska Airlines Flight 1282 (PDF)](briefs/HowItUnfoldedFlight1282SourceBrief.pdf) is a one-page guide to the in-flight incident, the FAA grounding order and the NTSB probable-cause finding. The brief links directly to all three public records.
 
+## Video accessibility
+
+[English WebVTT captions](captions/) are available for ten short timeline videos, with a link to each video and its source timeline.
+
 ## Sources and reuse
 
 This index contains references and short event labels. The linked documents, photographs, audio and articles remain subject to the rights and terms stated by their publishers. This repository does not grant a licence to those works.
